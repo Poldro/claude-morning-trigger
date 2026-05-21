@@ -2,7 +2,7 @@
 
 A tiny macOS [launchd](https://www.launchd.info/) job that runs `claude -p "<prompt>"` every morning at a fixed time.
 
-Why? Triggering a short Claude Code session early in the day warms up your local environment, refreshes any auto-memory it builds, and surfaces overnight changes in a log you can scan before coffee.
+Why? Triggering a short Claude Code session early in the day starts your 5 hours token session so that you can 3 sessions instead of 3 during work day.
 
 This repo ships:
 
